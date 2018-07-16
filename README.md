@@ -1,2 +1,6 @@
-# 04_BattleTank
-Udemy tutorial
+# BattleTank
+Udemy tutorial by Ben Tristem
+
+---
+## Commit List
+* First commit
